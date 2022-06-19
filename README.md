@@ -1,5 +1,3 @@
-# cv_paper
-
 # Awesome_CV_papers
 读过的计算机视觉论文以及文献总结汇报
 
