@@ -19,4 +19,4 @@
 
 ## 行人行为理解(People behavior understanding)[[论文列表]](./People_Behavior_Understanding/people_behavior_understanding.md)  
 
-## 图像识别(Image recognition)[[论文列表]](./Image recognition/Image recognition.md)  
+## 图像识别(Image recognition)[[论文列表]](./Image_recognition/Image_recognition.md)  
