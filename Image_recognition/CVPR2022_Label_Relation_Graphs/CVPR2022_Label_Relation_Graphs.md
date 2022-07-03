@@ -2,6 +2,7 @@
 # [CVPR2022] Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification
 
 论文地址：https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Label_Relation_Graphs_Enhanced_Hierarchical_Residual_Network_for_Hierarchical_Multi-Granularity_CVPR_2022_paper.pdf
+
 代码地址：https://github.com/MonsterZhZh/HRN
 
 ## 本文动机
